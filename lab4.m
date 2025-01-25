@@ -1,7 +1,7 @@
 %Lab:-4
 %Title:- Linear convolution. 
-%Developed by:- Sampurna Ghirmire
-%Roll No:- 2214
+%Developed by:- Munna Pajiyar
+%Roll No:- 221452
 %Date:- 2025/01/19
 
 
