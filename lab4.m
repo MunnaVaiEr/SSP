@@ -1,7 +1,7 @@
 %Lab:-4
 %Title:- Linear convolution. 
-%Developed by:- Munna Pajiyar
-%Roll No:- 221452
+%Developed by:- Pallavi Panday
+%Roll No:- 221451
 %Date:- 2025/01/19
 
 
